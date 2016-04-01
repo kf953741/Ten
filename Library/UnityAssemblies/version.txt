@@ -1,6 +1,4 @@
-5.3.2f1:2.1.0.0
+4.7.0f1:2.1.0.0
 StandaloneWindows
-D:/Unity5/Editor/Data/Managed/UnityEngine.dll
-D:/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-D:/Unity5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-D:/Unity5/Editor/Data/Managed/UnityEditor.dll
+D:/unity/Data/PlaybackEngines/WindowsStandaloneSupport/Managed/UnityEngine.dll
+D:/unity/Data/UnityExtensions/Unity/GUISystem/4.7.0/Standalone/UnityEngine.UI.dll

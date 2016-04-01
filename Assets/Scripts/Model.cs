@@ -9,7 +9,18 @@ public class Model : MonoBehaviour {
 
     public Cube getCube(int x, int y)
     {
+        if (x < 0 || x >= 4)
+        {
+            return null;
+        }
+        if (y < 0 || y >= 7)
+        {
+            Debug.Log(y);
+            return null;
+            
+        }   
         int n = x + y * 4;
+
         return list[n];
     }
 
